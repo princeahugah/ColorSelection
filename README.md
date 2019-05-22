@@ -6,3 +6,5 @@
 3. Currently selected items should be visually highlighted.
 4. Currently selected items' names should be shown at the top of the page.
 5. Make sure to avoid unnecessary re-renders.
+
+Output: https://jsfiddle.net/princeahugah/cdfLr56v/
